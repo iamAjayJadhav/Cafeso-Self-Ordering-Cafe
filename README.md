@@ -1,6 +1,5 @@
 # Cafeso-Self-Ordering-Cafe
-A Self Ordering Cafe
-It is a desktop application
+It is a desktop application for small cafe's 
 ## :camera_flash: Screenshots 
 <img src="https://github.com/iamAjayJadhav/Cafeso-Self-Ordering-Cafe/blob/main/Cafeso%20Screenshots/Screenshot%201.png"> 
 <img src="https://github.com/iamAjayJadhav/Cafeso-Self-Ordering-Cafe/blob/main/Cafeso%20Screenshots/Screenshot%202.png"> 
